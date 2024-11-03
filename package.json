@@ -1,0 +1,18 @@
+{
+  "name": "urban_homework_13",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "mocha:test:users": "mocha test/**/*.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "chai": "^5.1.2",
+    "mocha": "^10.8.2",
+    "sinon": "^19.0.2"
+  }
+}
